@@ -1,0 +1,31 @@
+body{
+   background:  grey; 
+}
+
+.navs-item:hover { 
+   background-color:rgb(248, 243, 243);
+   color:black;
+
+}
+
+.page-item{
+   color: azure;
+}
+
+.navs-item {
+   display: inline-block;
+   padding: 1rem 1rem;
+   vertical-align: bottom;
+
+}
+
+
+.navigations {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 20px;
+   border-top: 2px solid #ccc;
+   cursor: pointer;
+   background-color: grey;
+}

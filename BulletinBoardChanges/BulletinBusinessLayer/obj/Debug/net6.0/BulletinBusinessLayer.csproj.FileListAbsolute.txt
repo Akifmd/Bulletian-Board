@@ -1,0 +1,30 @@
+C:\Users\Mohammed Akif M\Desktop\practice\BulletinBoardChanges\BulletinBusinessLayer\bin\Debug\net6.0\BulletinBusinessLayer.deps.json
+C:\Users\Mohammed Akif M\Desktop\practice\BulletinBoardChanges\BulletinBusinessLayer\bin\Debug\net6.0\BulletinBusinessLayer.dll
+C:\Users\Mohammed Akif M\Desktop\practice\BulletinBoardChanges\BulletinBusinessLayer\bin\Debug\net6.0\BulletinBusinessLayer.pdb
+C:\Users\Mohammed Akif M\Desktop\practice\BulletinBoardChanges\BulletinBusinessLayer\bin\Debug\net6.0\BulletinDataLayer.dll
+C:\Users\Mohammed Akif M\Desktop\practice\BulletinBoardChanges\BulletinBusinessLayer\bin\Debug\net6.0\BulletinDataLayer.pdb
+C:\Users\Mohammed Akif M\Desktop\practice\BulletinBoardChanges\BulletinBusinessLayer\obj\Debug\net6.0\BulletinBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Mohammed Akif M\Desktop\practice\BulletinBoardChanges\BulletinBusinessLayer\obj\Debug\net6.0\BulletinBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed Akif M\Desktop\practice\BulletinBoardChanges\BulletinBusinessLayer\obj\Debug\net6.0\BulletinBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Mohammed Akif M\Desktop\practice\BulletinBoardChanges\BulletinBusinessLayer\obj\Debug\net6.0\BulletinBusinessLayer.AssemblyInfo.cs
+C:\Users\Mohammed Akif M\Desktop\practice\BulletinBoardChanges\BulletinBusinessLayer\obj\Debug\net6.0\BulletinBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Akif M\Desktop\practice\BulletinBoardChanges\BulletinBusinessLayer\obj\Debug\net6.0\BulletinBusinessLayer.csproj.CopyComplete
+C:\Users\Mohammed Akif M\Desktop\practice\BulletinBoardChanges\BulletinBusinessLayer\obj\Debug\net6.0\BulletinBusinessLayer.dll
+C:\Users\Mohammed Akif M\Desktop\practice\BulletinBoardChanges\BulletinBusinessLayer\obj\Debug\net6.0\refint\BulletinBusinessLayer.dll
+C:\Users\Mohammed Akif M\Desktop\practice\BulletinBoardChanges\BulletinBusinessLayer\obj\Debug\net6.0\BulletinBusinessLayer.pdb
+C:\Users\Mohammed Akif M\Desktop\practice\BulletinBoardChanges\BulletinBusinessLayer\obj\Debug\net6.0\ref\BulletinBusinessLayer.dll
+C:\Users\Mohammed Akif M\Desktop\practice\Bulletin Board Final\BulletinBoardChanges\BulletinBusinessLayer\bin\Debug\net6.0\BulletinBusinessLayer.deps.json
+C:\Users\Mohammed Akif M\Desktop\practice\Bulletin Board Final\BulletinBoardChanges\BulletinBusinessLayer\bin\Debug\net6.0\BulletinBusinessLayer.dll
+C:\Users\Mohammed Akif M\Desktop\practice\Bulletin Board Final\BulletinBoardChanges\BulletinBusinessLayer\bin\Debug\net6.0\BulletinBusinessLayer.pdb
+C:\Users\Mohammed Akif M\Desktop\practice\Bulletin Board Final\BulletinBoardChanges\BulletinBusinessLayer\bin\Debug\net6.0\BulletinDataLayer.dll
+C:\Users\Mohammed Akif M\Desktop\practice\Bulletin Board Final\BulletinBoardChanges\BulletinBusinessLayer\bin\Debug\net6.0\BulletinDataLayer.pdb
+C:\Users\Mohammed Akif M\Desktop\practice\Bulletin Board Final\BulletinBoardChanges\BulletinBusinessLayer\obj\Debug\net6.0\BulletinBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Mohammed Akif M\Desktop\practice\Bulletin Board Final\BulletinBoardChanges\BulletinBusinessLayer\obj\Debug\net6.0\BulletinBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed Akif M\Desktop\practice\Bulletin Board Final\BulletinBoardChanges\BulletinBusinessLayer\obj\Debug\net6.0\BulletinBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Mohammed Akif M\Desktop\practice\Bulletin Board Final\BulletinBoardChanges\BulletinBusinessLayer\obj\Debug\net6.0\BulletinBusinessLayer.AssemblyInfo.cs
+C:\Users\Mohammed Akif M\Desktop\practice\Bulletin Board Final\BulletinBoardChanges\BulletinBusinessLayer\obj\Debug\net6.0\BulletinBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Akif M\Desktop\practice\Bulletin Board Final\BulletinBoardChanges\BulletinBusinessLayer\obj\Debug\net6.0\BulletinBusinessLayer.csproj.CopyComplete
+C:\Users\Mohammed Akif M\Desktop\practice\Bulletin Board Final\BulletinBoardChanges\BulletinBusinessLayer\obj\Debug\net6.0\BulletinBusinessLayer.dll
+C:\Users\Mohammed Akif M\Desktop\practice\Bulletin Board Final\BulletinBoardChanges\BulletinBusinessLayer\obj\Debug\net6.0\refint\BulletinBusinessLayer.dll
+C:\Users\Mohammed Akif M\Desktop\practice\Bulletin Board Final\BulletinBoardChanges\BulletinBusinessLayer\obj\Debug\net6.0\BulletinBusinessLayer.pdb
+C:\Users\Mohammed Akif M\Desktop\practice\Bulletin Board Final\BulletinBoardChanges\BulletinBusinessLayer\obj\Debug\net6.0\ref\BulletinBusinessLayer.dll
